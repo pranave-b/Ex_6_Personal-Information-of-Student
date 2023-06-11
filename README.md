@@ -30,7 +30,7 @@ Step 7: Save and run the application.
 /*
 Program to develop personal information for student
 Developed by: Pranave B
-RegisterNumber:  212221240040S
+RegisterNumber:  212221240040
 */
 ```
 
